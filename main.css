@@ -81,29 +81,14 @@ button:hover{
 #auth{
     opacity: 0;
 }
-.start_window{
-    position: absolute;
-    border-radius: 100px;
-    margin-top:120px;
-    margin-left:6vw;
-    margin-right: 7vw;
-    padding: 20px;
-    font-family: 'Optima';
-    width:86vw;
-    height: 400px;
-    border: 2px solid;
-    border-color: white;
-    text-align: center;
-    font-size: 100px;
-    color:White;
-}
+
 .authturn{
     margin-top: 30px;
     margin-left: 430px;
     width:950px;
     height: 750px;
     border: 15px solid;
-    border-color: rgb(0, 159, 107);
+    border-color: rgb(0, 200, 107);
     background: white;
 }
 form{
