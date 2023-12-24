@@ -4,7 +4,7 @@
 	margin: 0;
 }
 .main{
-    background-color: hsl(210deg, 30%, 8%);
+    background-color: rgb(0, 159, 107);
     width: 100%;
     min-height: 90vh;
     display: flex;
@@ -102,7 +102,7 @@ button:hover{
     width:950px;
     height: 750px;
     border: 15px solid;
-    border-color: rgb(236, 199, 199);
+    border-color: rgb(0, 159, 107);
     background: black;
 }
 form{
